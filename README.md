@@ -1,5 +1,7 @@
 # 📊 Student Grade Analyzer using R Vectors (Interactive Web App)
 
+🔗 **Live App:** [Open Student Grade Analyzer](https://prathiksha-v123.shinyapps.io/Student_Grade_Analyser/)
+
 An interactive **R Shiny web app** for analyzing student scores — add
 students manually, upload a CSV, remove entries, adjust the pass mark,
 and download the final report. Everything updates live.
